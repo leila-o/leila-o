@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @leila-o, a HS student and novice programmer
-- 👀 I’m interested in space and physics
-- 🌱 I’m currently learning Python and Java, using Python for my astrophysics studies
+- 👋 Hi, I’m @leila-o, a college student and novice programmer
+- 👀 I’m interested in astrophysics
+- 🌱 I’m currently learning HTML, Javascript, and CSS for my internship
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
